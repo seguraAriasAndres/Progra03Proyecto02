@@ -1,4 +1,4 @@
-module cr.ac.una.est.progra03proyecto02 {
+module cr.ac.una.est.progra03proyecto {
     requires javafx.controls;
     requires javafx.fxml;
 
